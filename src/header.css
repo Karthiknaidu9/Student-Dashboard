@@ -1,0 +1,19 @@
+.headcomponent {
+  display: flex;
+  flex-direction: row;
+  /* align-items: center;
+  justify-content: center; */
+  padding: 20px;
+  justify-content: center;
+  background-color: blueviolet;
+  /* border: 1px solid #ccc; */
+  /* border-radius: 8px; */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.headcomponent h1 {
+  margin: 0;
+  padding: 0;
+  font-size: 2em;
+  color: #333;
+}
